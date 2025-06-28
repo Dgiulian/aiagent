@@ -1,0 +1,6 @@
+venv/
+venv_x86_64/
+.env
+.DS_Store
+bin/
+lib/
